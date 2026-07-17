@@ -24,8 +24,8 @@ dependencies = [
 tornado-demix = "tornado_demix.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/tornado-demix"
-Issues = "https://github.com/YOUR_USERNAME/tornado-demix/issues"
+Homepage = "https://github.com/prettydeath/tornado-demix"
+Issues = "https://github.com/prettydeath/tornado-demix/issues"
 
 [tool.setuptools]
 packages = ["tornado_demix"]

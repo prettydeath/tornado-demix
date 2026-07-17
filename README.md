@@ -85,7 +85,7 @@ Full write-up: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tornado-demix.git
+git clone https://github.com/prettydeath/tornado-demix.git
 cd tornado-demix
 python -m pip install -r requirements.txt      # or: pip install -e .
 ```
