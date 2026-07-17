@@ -227,26 +227,6 @@ tornado-demix/
 └── LICENSE
 ```
 
-## Set the GitHub "About" panel
-
-After pushing, set the repository description and topics from the CLI:
-
-```bash
-gh repo edit \
-  --description "Tornado.Cash (ETH) demixing via amount + timing correlation on public on-chain data" \
-  --add-topic ethereum --add-topic tornado-cash --add-topic blockchain-forensics \
-  --add-topic demixing --add-topic etherscan --add-topic aml --add-topic osint
-```
-
----
-
-## Methodology
-
-See [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) for the full description, including the
-signal-strength table and the window-overlap caveat.
-
----
-
 ## Limitations
 
 - **Probabilistic, not proof.** Candidates are leads that require corroboration.
